@@ -29,13 +29,13 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="36" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="36" alt="mongodb logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="36" alt="git logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="36" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="nginx logo"  />
   <img width="16" />
@@ -72,6 +72,10 @@
   <img src="https://skillicons.dev/icons?i=aws" height="36" alt="amazonwebservices logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="36" alt="vercel logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="36" alt="netlify logo"  />
 </div>
 
 ###
