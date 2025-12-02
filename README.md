@@ -70,6 +70,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=aws" height="36" alt="amazonwebservices logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  />
 </div>
 
 ###
