@@ -1,8 +1,4 @@
-<style>
-body { background: red; }
-</style>
-
-<body>
+<div style="background:red">
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQE9doLVTmsIow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1728330960644?e=1766016000&v=beta&t=kc2JzIsBPm6jWZUfuDw30UdNa-Bm9Qt0ZivEtMUPcyM"  />
 </div>
@@ -139,4 +135,4 @@ body { background: red; }
 
 ###
 
-</body>
+</div>
